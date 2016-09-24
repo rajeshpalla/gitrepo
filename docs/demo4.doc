@@ -1,5 +1,0 @@
-prompt> git mv README.md README.rst
-prompt> git commit -m "Changed README from Markdown to ReSTructured text"
-[master f810d86] Changed README from Markdown to ReSTructured text
-1 files changed, 0 insertions(+), 0 deletions(-)
-rename README.md => README.rst (100%)
