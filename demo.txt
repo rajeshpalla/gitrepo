@@ -1,0 +1,2 @@
+The file names my_file, myfile2 and myfile3 are used for demonstration purposes.
+They signify three different files and not the different versions of the same file.
